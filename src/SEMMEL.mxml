@@ -146,6 +146,7 @@
 			
 			public var isConnected:Boolean = false;
 			
+			public var graphCompliance:GraphCompliance = new GraphCompliance;
 			public var graphDashboard:GraphDashboard = new GraphDashboard;
 			public var graphHHOByDepartment:GraphHHOByDepartment = new GraphHHOByDepartment;
 			public var graphHHOByProfession:GraphHHOByProfession = new GraphHHOByProfession;
